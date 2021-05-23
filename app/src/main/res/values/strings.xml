@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplicativo Posto</string>
+    <string name="welcome">Bem vindo ao app Posto</string>
+    <string name="welcomeButtom">Enviar</string>
+</resources>
